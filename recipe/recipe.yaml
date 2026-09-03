@@ -1,8 +1,8 @@
 schema_version: 1
 
 context:
-  version: "5.6"
-  build_number: 2
+  version: "6.0"
+  build_number: 0
 
 recipe:
   name: fastbdt-suite
@@ -10,7 +10,7 @@ recipe:
 
 source:
   url: https://github.com/belle2/FastBDT/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 644ef4d4044cef4272d976ad85e8efb56e51fc485d19eb8aa9a3115e90f1ff11
+  sha256: 47317cd71e1536811a7f21669ac2fabc9d337ffa791a4ae43c44d228ff4600c2
 
 build:
   number: ${{ build_number }}
