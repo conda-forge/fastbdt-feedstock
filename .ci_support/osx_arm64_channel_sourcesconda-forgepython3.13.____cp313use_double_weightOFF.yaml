@@ -28,3 +28,6 @@ target_platform:
 - osx-arm64
 use_double_weight:
 - 'OFF'
+zip_keys:
+- - python
+  - channel_sources
