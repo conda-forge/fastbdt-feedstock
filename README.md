@@ -36,115 +36,143 @@ Current build status
         <table>
           <thead><tr><th>Variant</th><th>Status</th></tr></thead>
           <tbody><tr>
-              <td>osx_64_python3.11.____cpythonuse_double_weightOFF</td>
+              <td>osx_64_channel_sourcesconda-forgeconda-forgelabelpython_rcpython3.15.____cp315use_double_weightOFF</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28463&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_python3.11.____cpythonuse_double_weightOFF" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_channel_sourcesconda-forgeconda-forgelabelpython_rcpython3.15.____cp315use_double_weightOFF" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_python3.11.____cpythonuse_double_weightON</td>
+              <td>osx_64_channel_sourcesconda-forgeconda-forgelabelpython_rcpython3.15.____cp315use_double_weightON</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28463&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_python3.11.____cpythonuse_double_weightON" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_channel_sourcesconda-forgeconda-forgelabelpython_rcpython3.15.____cp315use_double_weightON" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_python3.12.____cpythonuse_double_weightOFF</td>
+              <td>osx_64_channel_sourcesconda-forgepython3.11.____cpythonuse_double_weightOFF</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28463&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_python3.12.____cpythonuse_double_weightOFF" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_channel_sourcesconda-forgepython3.11.____cpythonuse_double_weightOFF" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_python3.12.____cpythonuse_double_weightON</td>
+              <td>osx_64_channel_sourcesconda-forgepython3.11.____cpythonuse_double_weightON</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28463&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_python3.12.____cpythonuse_double_weightON" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_channel_sourcesconda-forgepython3.11.____cpythonuse_double_weightON" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_python3.13.____cp313use_double_weightOFF</td>
+              <td>osx_64_channel_sourcesconda-forgepython3.12.____cpythonuse_double_weightOFF</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28463&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_python3.13.____cp313use_double_weightOFF" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_channel_sourcesconda-forgepython3.12.____cpythonuse_double_weightOFF" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_python3.13.____cp313use_double_weightON</td>
+              <td>osx_64_channel_sourcesconda-forgepython3.12.____cpythonuse_double_weightON</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28463&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_python3.13.____cp313use_double_weightON" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_channel_sourcesconda-forgepython3.12.____cpythonuse_double_weightON" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_python3.14.____cp314use_double_weightOFF</td>
+              <td>osx_64_channel_sourcesconda-forgepython3.13.____cp313use_double_weightOFF</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28463&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_python3.14.____cp314use_double_weightOFF" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_channel_sourcesconda-forgepython3.13.____cp313use_double_weightOFF" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_python3.14.____cp314use_double_weightON</td>
+              <td>osx_64_channel_sourcesconda-forgepython3.13.____cp313use_double_weightON</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28463&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_python3.14.____cp314use_double_weightON" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_channel_sourcesconda-forgepython3.13.____cp313use_double_weightON" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_arm64_python3.11.____cpythonuse_double_weightOFF</td>
+              <td>osx_64_channel_sourcesconda-forgepython3.14.____cp314use_double_weightOFF</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28463&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_python3.11.____cpythonuse_double_weightOFF" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_channel_sourcesconda-forgepython3.14.____cp314use_double_weightOFF" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_arm64_python3.11.____cpythonuse_double_weightON</td>
+              <td>osx_64_channel_sourcesconda-forgepython3.14.____cp314use_double_weightON</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28463&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_python3.11.____cpythonuse_double_weightON" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_channel_sourcesconda-forgepython3.14.____cp314use_double_weightON" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_arm64_python3.12.____cpythonuse_double_weightOFF</td>
+              <td>osx_arm64_channel_sourcesconda-forgeconda-forgelabelpython_rcpython3.15.____cp315use_double_weightOFF</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28463&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_python3.12.____cpythonuse_double_weightOFF" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_channel_sourcesconda-forgeconda-forgelabelpython_rcpython3.15.____cp315use_double_weightOFF" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_arm64_python3.12.____cpythonuse_double_weightON</td>
+              <td>osx_arm64_channel_sourcesconda-forgeconda-forgelabelpython_rcpython3.15.____cp315use_double_weightON</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28463&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_python3.12.____cpythonuse_double_weightON" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_channel_sourcesconda-forgeconda-forgelabelpython_rcpython3.15.____cp315use_double_weightON" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_arm64_python3.13.____cp313use_double_weightOFF</td>
+              <td>osx_arm64_channel_sourcesconda-forgepython3.11.____cpythonuse_double_weightOFF</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28463&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_python3.13.____cp313use_double_weightOFF" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_channel_sourcesconda-forgepython3.11.____cpythonuse_double_weightOFF" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_arm64_python3.13.____cp313use_double_weightON</td>
+              <td>osx_arm64_channel_sourcesconda-forgepython3.11.____cpythonuse_double_weightON</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28463&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_python3.13.____cp313use_double_weightON" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_channel_sourcesconda-forgepython3.11.____cpythonuse_double_weightON" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_arm64_python3.14.____cp314use_double_weightOFF</td>
+              <td>osx_arm64_channel_sourcesconda-forgepython3.12.____cpythonuse_double_weightOFF</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28463&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_python3.14.____cp314use_double_weightOFF" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_channel_sourcesconda-forgepython3.12.____cpythonuse_double_weightOFF" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_arm64_python3.14.____cp314use_double_weightON</td>
+              <td>osx_arm64_channel_sourcesconda-forgepython3.12.____cpythonuse_double_weightON</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28463&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_python3.14.____cp314use_double_weightON" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_channel_sourcesconda-forgepython3.12.____cpythonuse_double_weightON" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_arm64_channel_sourcesconda-forgepython3.13.____cp313use_double_weightOFF</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28463&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_channel_sourcesconda-forgepython3.13.____cp313use_double_weightOFF" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_arm64_channel_sourcesconda-forgepython3.13.____cp313use_double_weightON</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28463&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_channel_sourcesconda-forgepython3.13.____cp313use_double_weightON" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_arm64_channel_sourcesconda-forgepython3.14.____cp314use_double_weightOFF</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28463&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_channel_sourcesconda-forgepython3.14.____cp314use_double_weightOFF" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_arm64_channel_sourcesconda-forgepython3.14.____cp314use_double_weightON</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28463&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fastbdt-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_channel_sourcesconda-forgepython3.14.____cp314use_double_weightON" alt="variant">
                 </a>
               </td>
             </tr>

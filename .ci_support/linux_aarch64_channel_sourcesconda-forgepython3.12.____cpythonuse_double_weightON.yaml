@@ -23,4 +23,7 @@ python:
 target_platform:
 - linux-aarch64
 use_double_weight:
-- 'OFF'
+- 'ON'
+zip_keys:
+- - python
+  - channel_sources
