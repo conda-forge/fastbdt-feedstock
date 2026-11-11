@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   version: "6.0"
-  build_number: 1
+  build_number: 2
 
 recipe:
   name: fastbdt-suite
@@ -34,7 +34,9 @@ outputs:
         - find $PREFIX/lib -name "libFastBDT_static.a" -delete
     requirements:
       run_exports:
-        - ${{ pin_subpackage("fastbdt", upper_bound="x.x") }}
+        # FastBDT::Weight is float or double depending on USE_DOUBLE_WEIGHT, so the
+        # two variants are ABI-incompatible: pin the variant via the build string too.
+        - ${{ pin_subpackage("fastbdt", upper_bound="x.x", build="double_weight_" ~ (use_double_weight | lower) ~ "_*") }}
       build:
         - ${{ stdlib("c") }}
         - ${{ compiler("cxx") }}
@@ -77,6 +79,10 @@ outputs:
     requirements:
       run:
         - ${{ pin_subpackage("fastbdt", exact=true) }}
+      # Downstream packages that put fastbdt-double-weight in host must keep
+      # the double-weight fastbdt at runtime.
+      run_exports:
+        - ${{ pin_subpackage("fastbdt", upper_bound="x.x", build="double_weight_on_*") }}
     # Redundant tests to satisfy linter
     tests:
       - python:
